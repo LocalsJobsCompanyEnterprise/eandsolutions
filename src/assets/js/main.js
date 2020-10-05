@@ -83,6 +83,11 @@ $(document).ready(function() {
 			}
 		}) 
 
+		$('body').on('click', '.js-menu-toggle-hamburguer', function(e) {
+			var $this = $('.side-menu');
+			$this.removeClass('active');
+		}) 
+
 		// click outisde offcanvas
 		$(document).mouseup(function(e) {
 	    var container = $(".site-mobile-menu");

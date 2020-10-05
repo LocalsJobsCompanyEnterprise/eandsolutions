@@ -29,11 +29,12 @@
     },
     "Related_Work":{
         "Title":"Related Works",
-        "Text": "A sample of our most successful works, and the clien's reaction to their visualization",
+        "Text": "A sample of our most successful works, and the clients reaction to their visualization",
+        "SubTitle":"Work and personal feedback",
         "w1_Description": "Online sales system. Sale of household appliances with shipping in the united states and the caribbean. It has three systems: <br> 1-Client (Mobile and Web) <br> 2-Administrator (Information Management) <br> 3-Server (Communication with data bases)",
         "w1_profession" : "Mechanical engineer",
         "w1_comment" : "Wow amazing, a very intuitive and high quality system. My earnings have increased 60% and I have great control over sales and clients",
-        "w2_Description": "System for the exhibition of the client's own collection, where multiple sections of different images of pieces of Cuban collecting are displayed. It has three systems: <br> 1-Client (Web) <br> 2-Administrator (Information management) <br> 3-Server (Communication with data bases)",
+        "w2_Description": "System for the exhibition of the client own collection, where multiple sections of different images of pieces of Cuban collecting are displayed. It has three systems: <br> 1-Client (Web) <br> 2-Administrator (Information management) <br> 3-Server (Communication with data bases)",
         "w2_profession" : "Founder <a href='http://cubamuseo.com'>cubamuseo.com<a>",
         "w2_comment" : "Very well structured with a design fully adaptable to internet access devices. Very good work I will continue working with you",
         "w3_Description": "Android application for support in the teaching-learning system in the branch of philosophy. Developed in Ionic Framework, for multiplatform use.",
@@ -43,7 +44,7 @@
     "About":{
         "About":"About Us",
         "Mission":"Our Mission",
-        "Text":"LocalJobs it`s a company focused on software and hardware development, providing customized solutions for each client. Using the most innovative technologies LocalJobs launches everything you imagine for your business.",
+        "Text":"E&Solutions it`s a company focused on software and hardware development, providing customized solutions for each client. Using the most innovative technologies LocalJobs launches everything you imagine for your business.",
         "Text2":"The systems developed are modular providing  scalability, adaptability and ease of changes. This type of systems will allow the client to add new functions as his business grows and adapt his capabilities in real time.",
         "Text3":"We guarantee:",
         "Obj1":"Quality",
@@ -68,7 +69,7 @@
     "Testimonials":{
         "Title":"Testimonials",
         "T1":"I never thought that these young engineers could do high-quality work at such great prices. The customer service is one of the best I have experienced, very patient and magnificent deals. Very efficient when it comes to complying with agreed task lists.",
-        "T2":"Very charismatic young people, who give their best in their jobs. I am very happy with the results that are obtained both in effectiveness, efficiency and quality.",
+        "T2":"Very charismatic young people, who give their best in their jobs. I am very delighted with the results that are obtained both in effectiveness, efficiency and quality.",
         "T3":"Of magnificent students, now professionals doing an excellent job with splendid results. Very proud to have been part of his teaching and to observe his satisfactory progress in the world of small companies."
     },
     "Contact":{
@@ -79,6 +80,8 @@
         "Subject":"Subject",
         "Message":"Message",
         "PlaceHolder":"Leave your message here...",
-        "Send":"Send Message"
+        "Send":"Send Message",
+        "Text":"If you want to hire any of our services, you can contact us at this email. Your questions will be answered as soon as possible and with the respect you deserve. Our goal will be to reach an agreement that is beneficial and to your liking",
+        "Text2":"Remember your satisfaction is our priority. We will be waiting for you"
     }
 }

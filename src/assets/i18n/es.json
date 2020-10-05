@@ -30,10 +30,11 @@
     "Related_Work":{
         "Title":"Trabajos relacionados",
         "Text": "Una muestra de nuestros trabajos más exitosos y la reacción de los clientes a su visualizacón",
+        "SubTitle":"Trabajo y comentario",
         "w1_Description": "Sistema de ventas online. Venta de electrodomésticos con envio en estados unidos y el caribe. Cuenta con tres sistemas: <br> 1-Cliente (Movil y Web) <br> 2-Administrador (Gestión de la información) <br> 3-Servidor (Comunicación con almacenes de datos)",
         "w1_profession" : "Ing. Mecánico",
         "w1_comment" : "Wow asombroso, un sistema muy instuitivo y de gran calidad. Mis ganancias se han elevado un 60% y poseo gran control de las ventas y clientes",
-        "w2_Description": "Sistema para la muestra de colleción propia del cliente, donde se muetran multiples secciones de diferentes imagenes de piezas del coleccionismo cubano. Cuenta con tres sistemas: <br> 1-Cliente (Web) <br> 2-Administrador (Gestión de la información) <br> 3-Servidor (Comunicación con almacenes de datos)",
+        "w2_Description": "Sistema para la muestra de coleción propia del cliente, donde se muetran multiples secciones de diferentes imagenes de piezas del coleccionismo cubano. Cuenta con tres sistemas: <br> 1-Cliente (Web) <br> 2-Administrador (Gestión de la información) <br> 3-Servidor (Comunicación con almacenes de datos)",
         "w2_profession" : "Fundador <a href='http://cubamuseo.com'>cubamuseo.com<a>",
         "w2_comment" : "Muy bien estructurado con diseño totalmente adaptable a los dispositivos de acceso a internet. Muy buen trabajo seguiré trabajando con ustedes",
         "w3_Description": "Aplicación android para el apoyo en el sistema de enseñanza-aprendizaje en la rama de la filosofía. Desarrollada en Ionic Framework, para su uso multiplataforma.",
@@ -43,7 +44,7 @@
     "About":{
         "About":"Quienes Somos",
         "Mission":"Nuestra Misión",
-        "Text":"LocalJobs es una empresa enfocada en el desarrollo de software y hardware, brindando soluciones a medida para cada cliente. Haciendo uso de las más innovadoras tecnologías LocalJobs pone en marcha todo lo que usted imagine para su negocio.",
+        "Text":"E&Solutions es una empresa enfocada en el desarrollo de software y hardware, brindando soluciones a medida para cada cliente. Haciendo uso de las más innovadoras tecnologías E&Solutions pone en marcha todo lo que usted imagine para su negocio.",
         "Text2":"Los sistemas desarrollados son modulares permitiendo así escalabilidad, adaptabilidad y facilidad a la hora de realizar cambios. Este tipo de sistemas le permitirá al cliente ir agregando nuevas funciones en la medida que su negocio crezca e ir adaptando sus capacidades en tiempo real.",
         "Text3":"Le garantizamos:",
         "Obj1":"Calidad",
@@ -79,6 +80,8 @@
         "Subject":"Asunto",
         "Message":"Mensaje",
         "PlaceHolder":"Deje su mensaje aquí...",
-        "Send":"Enviar"
+        "Send":"Enviar",
+        "Text":"Si desea la contratación de alguno de nuestros servicios, puede contactarnos a este correo. Se le dará respuesta a sus preguntas lo más pronto posible y con el respeto que usted merece. Nuestro objetivo será llegar a un acuerdo que le resulte beneficioso y de agrado",
+        "Text2": "Recuerde su satisfacción es nuestra prioridad. Le esperamos"
     }
 }
